@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 👨‍🎓 Master's student
 - 🔭 Currently working on LLM for robotics/agent/reasoning/planner
 - 📫 How to reach me: shure.contact[at]gmail.com
-- 🔥 I'm updating this repo: [Awesome-LLM-for-Robotics-Reasoning](https://github.com/shure-dev/Awesome-LLM-for-Robotics-Reasoning)
+- 🔥 my recent big contribution : [Awesome-LLM-for-Robotics-Reasoning](https://github.com/shure-dev/Awesome-LLM-for-Robotics-Reasoning)
 - ⭐ Check [our notion](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=74)
