@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 - 👨‍🎓 Master's student
 - 🔭 Currently working on LLM for Robot/Agent/Reasoning/Planning
-- 🔥 my recent contribution : [Awesome-LLMs](https://github.com/shure-dev/Awesome-LLM-for-Robotics-Reasoning)
+- 🔥 my recent contribution : [Awesome-LLM-related-Papers-Comprehensive-Topics](https://github.com/shure-dev/Awesome-LLM-for-Robotics-Reasoning), [NLaP](https://github.com/shure-dev/NLaP)
