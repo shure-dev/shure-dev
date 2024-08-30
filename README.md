@@ -14,7 +14,9 @@
 
 Here are some ideas to get you started:
 -->
+- Everything about me is here: https://sites.google.com/view/yusukemikami 
 - 👨‍🎓 Master's student, Check [my LinkedIn](https://www.linkedin.com/in/yusukemikami/) for more background.
-- 🔭 Currently working on LLM for Robot/Agent/Reasoning/Planning
+- 🔭 LLM/AI for research and product
 - 🔥 My recent contribution : [logllm](https://github.com/shure-dev/logllm), [Awesome-LLM-related-Papers-Comprehensive-Topics](https://github.com/shure-dev/Awesome-LLM-for-Robotics-Reasoning), [NLaP](https://github.com/shure-dev/NLaP)
 - GitHub Account for my internship: https://github.com/yusuke-intern
+
